@@ -74,7 +74,7 @@ An interactive Employee Performance Dashboard developed using Excel/WPS Spreadsh
 
 ## Dashboard Preview
 
-![Employee Performance Dashboard](Dashboard_screenshot.png)
+![Employee Performance Dashboard](Dashboard screenshot.png)
 
 ## Key Skills Demonstrated
 
